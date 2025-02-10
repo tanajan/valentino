@@ -75,7 +75,7 @@ noButton.addEventListener("click", function () {
 
 // Add event listener for the "yes" button to navigate to the "yes.html" page
 yesButton.addEventListener("click", function () {
-    window.location.href = "../yes/yes.html";
+    window.location.href = "./yes/yes.html";
 });
 
 // Mute button functionality
