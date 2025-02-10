@@ -3,32 +3,19 @@ const yesButton = document.getElementById("yes-btn");
 const gifFrame = document.getElementById("gif-frame");
 
 const messages = [
-    "Are You Sure?",
-    "Are you positive?",
+    "Are You Sure? 🤔",
+    "Are you really, really sure? 😬",
     "Please reconsider it 😬",
-    "If you say No, I will be really sad 🫥",
-
-    "😿 ถ้ายังไม่กด Yes อีก ฉันจะเศร้าจริงๆนะ 😿",
-    "😾 จะไม่สนใจเลยหรอที่ฉันเศร้า 😾",
-    "โอ้ย ยังจะกดต่ออีก 😢 😢 😢",
-    "ขอล้องงงง กด Yes เถอะ 😤",
-
-    "ถ้ากดอีก จะบังคับแล้วนะ 🤬"
+    "If you say No, I'll be sooo sad... 🫥",
+    "😿 If you don’t hit Yes, I’m gonna cry...  😿",
 ];
 
 const gifs = [
     "https://giphy.com/embed/3ov9k0OmfNYeLdK4gg",
     "https://giphy.com/embed/xUPGGecxiqAvxUqd20",
-    "https://giphy.com/embed/MCQWRoaxAtxrhdC9Al",
-    "https://giphy.com/embed/i7vpymS7uRIIvPUUlq",
-
+    "https://giphy.com/embed/3o7bufrhglm1BTsfra",  
     "https://giphy.com/embed/W4zO9PSNXYMiYefZ4T",
-    "https://giphy.com/embed/JsVlBMEaHdOEGQKLXB",
-    "https://giphy.com/embed/JT0yvAUNFCwbTTkfVk",
-    "https://giphy.com/embed/gfsQffBnuc6e096brx",
-
-    "https://giphy.com/embed/11tTNkNy1SdXGg",
-    "https://giphy.com/embed/FHsP8drdRJheEr2qYN"
+    "https://giphy.com/embed/i7vpymS7uRIIvPUUlq",
 ];
 
 let clickCount = 0;
