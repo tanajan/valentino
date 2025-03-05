@@ -14,7 +14,7 @@ Responsive and works on both desktop and mobile.
 
 ## 🚀 Live Demo
 
-Try it out here: Valentino
+Try it out here: [Valentino](https://tanajan.github.io/valentino/)
 
 ## 🛠️ Technologies Used
 
