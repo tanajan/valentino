@@ -16,6 +16,7 @@ const gifs = [
     "https://giphy.com/embed/3o7bufrhglm1BTsfra",  
     "https://giphy.com/embed/W4zO9PSNXYMiYefZ4T",
     "https://giphy.com/embed/i7vpymS7uRIIvPUUlq",
+    "https://giphy.com/embed/3o7aCYnXnYF5T5sxlm",
 ];
 
 let clickCount = 0;
